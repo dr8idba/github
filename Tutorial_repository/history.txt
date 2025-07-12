@@ -1,5 +1,9 @@
+    command to list files
     1  ls -lrt
+    
     2  ls
+    
+    Present Working directorry
     3  pwd
     4  git
     5  git
@@ -40,7 +44,8 @@
    41  git log
    42  git status
    43  git status
-   44  git log
+   44  git logpwd
+
    45  git status
    46  lrt
    47  ls -lrt
