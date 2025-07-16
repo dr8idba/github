@@ -46,11 +46,16 @@
    43  git status
    44  git logpwd
 
+-- Gives you git status
    45  git status
-   46  lrt
-   47  ls -lrt
+
+-- Gives you Files and directorry list
+   47  ls -lrt  
+
+-- added new file to repository
    48  git add test1.txt 
-   49  git status
+
+-- Committing changes to GIT with comment
    50  git commit -m "updated test1.txt commit"
    51  git status
    52  git status
